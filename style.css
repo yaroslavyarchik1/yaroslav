@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(234, 255, 236);
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(170, 255, 149);
+}
+
+li{
+    font: 18px Segoe UI;
+    color: rgb(170, 255, 149);
+}
+h3{
+    font: 18px Segoe UI;
+    color: #33ff00;
+}
+h2{
+    font: 18px Segoe UI;
+    color: #57ff2d;
+}
+
+#but1{
+    background-color: rgb(170, 255, 149);
+    color: black;
+    font: 18px Segoe UI;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: relative;
+    left: 90%;
+    top: 400%;
+    transform: translateX(-50%) translateY(-500%);
+}
